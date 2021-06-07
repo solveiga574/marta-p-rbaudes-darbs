@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(148, 235, 148);
+}
+h1 {
+    color: yellow;
+    text-align: right;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+img {
+    border: 1px solid rgb(240, 13, 13);
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  div{
+    background-color: rgb(109, 131, 179);
+  }
